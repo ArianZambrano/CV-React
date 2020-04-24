@@ -1,0 +1,83 @@
+{
+    "name": "Arian Zambrano",
+    "profession": "Software Engenieer",
+    "address": "Lima, Perú",
+    "email": "zambranoarian@gmail.com",
+    "phone": "991427360",
+    "avatar": "./photo_avatar.jpg",
+    "certificate": [
+      {
+        "date": "2020",
+        "description": "How to use React framework ",
+        "institution": "Platzi",
+        "name": "FrontEnd Developer"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Software Engineering",
+        "description": "Knowledge on correct development of software systems, which are ensured of quality and scalability",
+        "endDate": "2022",
+        "institution": "UNMSM",
+        "startDate": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "occupation": " ",
+        "institution": " ",
+        "startDate": " ",
+        "endDate": " "
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "percentage": "60%"
+      },
+      {
+        "name": "CSS",
+        "percentage": "25%"
+      },
+      {
+        "name": "JavaScript",
+        "percentage": "40%"
+      },
+      {
+        "name": "React",
+        "percentage": "70%"
+      }
+    ],
+    "interest": [
+      "javascript",
+      "java",
+      "web development",
+      "fullstack",
+      "backend",
+      "frontend"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "percentage": "100%"
+      },
+      {
+        "name": "English",
+        "percentage": "60%"
+      }
+    ],
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/arianalberto.zambranoquispe"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ArianZambrano"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/arian.z23/"
+      }
+    ]
+}

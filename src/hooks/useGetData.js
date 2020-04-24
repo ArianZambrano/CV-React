@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-const api = 'https://us-centrall-gndx-cv.cloudfunctions.net/me';
+const api = './data.json';
 
 const useGetData = () => {
     const [mydata, setData] = useState([]);
@@ -13,4 +13,4 @@ const useGetData = () => {
     return mydata;
 }
 
-export default useGeteData;
+export default useGetData;
